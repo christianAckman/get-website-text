@@ -13,7 +13,7 @@
     "extract",
     "parse"
   ],
-  "author": "4ckman",
+  "author": "Christian Ackman <ackmanChristian@gmail.com> (http://christianAckman.com)",
   "license": "MIT",
   "dependencies": {
     "get-url-versions": "^1.0.0",

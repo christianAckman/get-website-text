@@ -8,9 +8,11 @@ $ npm install get-website-text
 
 ## Usage:
 ```
+const _gwt = require('get-website-text);
+
 var website = 'https://www.amazon.com/'
 
-getWebsiteText(website)
+_gwt.getWebsiteText(website)
 .then(function(data){
 
     if(data.error){
