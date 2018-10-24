@@ -35,7 +35,6 @@ async function getWebsiteText(website, noRedirects=false, timeOutSeconds){
 
         text = await page.evaluate(() => document.body.innerText)
         title = await page.title();
-        console.log(title)
     }
     catch(err){
         return {
