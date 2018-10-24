@@ -1,0 +1,22 @@
+{
+  "name": "get-website-text",
+  "version": "1.0.0",
+  "description": "Get a website's text",
+  "main": "index.js",
+  "keywords": [
+    "get",
+    "website",
+    "text",
+    "scrape",
+    "crawl",
+    "crawler",
+    "extract",
+    "parse"
+  ],
+  "author": "4ckman",
+  "license": "MIT",
+  "dependencies": {
+    "get-url-versions": "^1.0.0",
+    "puppeteer": "^1.7.0"
+  }
+}
