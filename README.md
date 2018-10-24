@@ -25,7 +25,7 @@ getWebsiteText(website)
 });
 ```
 
-** Output: **
+**Output:**
 
 ```
 Website: http://amazon.com/
